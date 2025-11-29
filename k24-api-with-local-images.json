@@ -1,0 +1,1100 @@
+[
+  {
+    "category": "Susu",
+    "slug": "susu",
+    "products": [
+      {
+        "id": 29489,
+        "name": "SGM EKSPLOR GAIN OPTIGROW 1 PLUS VANILA 400G BOX",
+        "slug": "sgm-eksplor-gain-optigrow-1-plus-vanila-400g-box",
+        "price": 102101,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20250313120120359225_SGM-Optigrow-400g-1.jpg",
+        "url": "https://www.k24klik.com/p/SGM-EKSPLOR-GAIN-OPTIGROW-1-PLUS-VANILA-400G-BOX-29489",
+        "localImage": "sgm-eksplor-gain-optigrow-1-plus-vanila-400g-box-4a15d44e.jpg"
+      },
+      {
+        "id": 28931,
+        "name": "SGM ANANDA GAIN 100 0-12BLN 400G BOX",
+        "slug": "sgm-ananda-gain-100-0-12bln-400g-box",
+        "price": 112029,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20250313115746359225_SGM-Gain-100-1.jpg",
+        "url": "https://www.k24klik.com/p/SGM-ANANDA-GAIN-100-0-12BLN-400G-BOX-28931",
+        "localImage": "sgm-ananda-gain-100-0-12bln-400g-box-4840b381.jpg"
+      },
+      {
+        "id": 803,
+        "name": "BEAR BRAND RTD TIN SUSU 189ML",
+        "slug": "bear-brand-rtd-tin-susu-189ml",
+        "price": 12721,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/0115e0074.jpg",
+        "url": "https://www.k24klik.com/p/BEAR-BRAND-RTD-TIN-SUSU-189ML-803",
+        "localImage": "bear-brand-rtd-tin-susu-189ml-e0de35f0.jpg"
+      },
+      {
+        "id": 16506,
+        "name": "NUTRINI DRINK POWDER VANILA 400G",
+        "slug": "nutrini-drink-powder-vanila-400g",
+        "price": 206421,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20250313114608359225_INFATRINI-NUTRINIDRINK-400g-1.jpg",
+        "url": "https://www.k24klik.com/p/NUTRINI-DRINK-VANILA-400G-KALENG-16506",
+        "localImage": "nutrini-drink-powder-vanila-400g-f249702b.jpg"
+      },
+      {
+        "id": 21632,
+        "name": "SGM LLM BEBAS LAKTOSA 0-12BLN 200G BOX",
+        "slug": "sgm-llm-bebas-laktosa-0-12bln-200g-box",
+        "price": 51900,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20250313115853359225_SGM-LLM--200g-1.jpg",
+        "url": "https://www.k24klik.com/p/SGM-LLM-BEBAS-LAKTOSA-0-12BLN-200G-BOX-21632",
+        "localImage": "sgm-llm-bebas-laktosa-0-12bln-200g-box-53f5018e.jpg"
+      },
+      {
+        "id": 1715,
+        "name": "LAKTAFIT",
+        "slug": "laktafit",
+        "price": 4255,
+        "unit": "Tablet",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20191119034816209249_LAKTAFIT-TAB-60S.jpg",
+        "url": "https://www.k24klik.com/p/LAKTAFIT-TAB-60S-1715",
+        "localImage": "laktafit-b8c7cfd1.jpg"
+      },
+      {
+        "id": 23322,
+        "name": "NEO SYIFA SUSU KAMBING",
+        "slug": "neo-syifa-susu-kambing",
+        "price": 35350,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/noimage.png",
+        "url": "https://www.k24klik.com/p/NEO-SYIFA-SUSU-KAMBING-23322",
+        "localImage": "neo-syifa-susu-kambing-56b853e6.png"
+      },
+      {
+        "id": 2866,
+        "name": "COLUSMIN SUSU SKIM SACH",
+        "slug": "colusmin-susu-skim-sach",
+        "price": 154654,
+        "unit": "Dos",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201607040348393754_COLUSMIN-SUSU-SKIM-SACH-10S.png",
+        "url": "https://www.k24klik.com/p/COLUSMIN-SUSU-SKIM-SACH-10S-2866",
+        "localImage": "colusmin-susu-skim-sach-c632b31c.png"
+      },
+      {
+        "id": 10208,
+        "name": "MYBIO SUSU COLOSTRUM SACH",
+        "slug": "mybio-susu-colostrum-sach",
+        "price": 551528,
+        "unit": "Dos",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20170523112959291_mybio.jpg",
+        "url": "https://www.k24klik.com/p/MYBIO-SUSU-COLOSTRUM-SACH-10S-10208",
+        "localImage": "mybio-susu-colostrum-sach-e2c2a491.jpg"
+      },
+      {
+        "id": 10746,
+        "name": "SUSU ULTRA STRAWBERRY 200ML",
+        "slug": "susu-ultra-strawberry-200ml",
+        "price": 5736,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20231031102421359225_ULTRA-MILK.png",
+        "url": "https://www.k24klik.com/p/ULTRA-MILK-STRAW-200ML-10746",
+        "localImage": "susu-ultra-strawberry-200ml-f8b8207a.png"
+      },
+      {
+        "id": 1567,
+        "name": "MELILEA SUSU KEDELAI 500G",
+        "slug": "melilea-susu-kedelai-500g",
+        "price": 115771,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230130023520359225_MELILEA-MINUMAN-SERBUK-KEDELAI.png",
+        "url": "https://www.k24klik.com/p/MELILEA-SUSU-KEDELAI-500G-1567",
+        "localImage": "melilea-susu-kedelai-500g-5c08b1c3.png"
+      },
+      {
+        "id": 2373,
+        "name": "SUSU ULTRA COKLAT 200ML",
+        "slug": "susu-ultra-coklat-200ml",
+        "price": 5987,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230627104133359225_ULTRA-MILK-COKLAT.png",
+        "url": "https://www.k24klik.com/p/ULTRA-MILK-COKLAT-200ML-2373",
+        "localImage": "susu-ultra-coklat-200ml-51bfd8d9.png"
+      },
+      {
+        "id": 2374,
+        "name": "SUSU ULTRA COKLAT 250ML",
+        "slug": "susu-ultra-coklat-250ml",
+        "price": 7333,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20200810091603359225_ULTRA-MILK-COKELAT.jpg",
+        "url": "https://www.k24klik.com/p/ULTRA-MILK-COKLAT-250ML-2374",
+        "localImage": "susu-ultra-coklat-250ml-baa80649.jpg"
+      },
+      {
+        "id": 2375,
+        "name": "SUSU ULTRA STROBERI 250ML",
+        "slug": "susu-ultra-stroberi-250ml",
+        "price": 7333,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201702120254567035_548-Ultramilk-250ml-Srawberry-1-.jpg",
+        "url": "https://www.k24klik.com/p/ULTRA-MILK-STRAW-250ML-2375",
+        "localImage": "susu-ultra-stroberi-250ml-408f3b4e.jpg"
+      },
+      {
+        "id": 2376,
+        "name": "SUSU ULTRA STROBERI 125ML",
+        "slug": "susu-ultra-stroberi-125ml",
+        "price": 3828,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2017072601565213_2536-Susu-ultra-stroberi-125ml.png",
+        "url": "https://www.k24klik.com/p/ULTRA-MILK-STRAW-125ML-2376",
+        "localImage": "susu-ultra-stroberi-125ml-5f3494bd.png"
+      },
+      {
+        "id": 23336,
+        "name": "SKM SUSU KEDELAI 88G",
+        "slug": "skm-susu-kedelai-88g",
+        "price": 8034,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/noimage.png",
+        "url": "https://www.k24klik.com/p/SKM-88-SUSU-KEDELAI-200G-23336",
+        "localImage": "skm-susu-kedelai-88g-56b853e6.png"
+      },
+      {
+        "id": 36116,
+        "name": "COLLAGENA SUSU STERIL 189ML",
+        "slug": "collagena-susu-steril-189ml",
+        "price": 14625,
+        "unit": "",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20251027113943359225_Collagena-2.jpg",
+        "url": "https://www.k24klik.com/p/COLLAGENA-SUSU-STERIL-189ML-36116",
+        "localImage": "collagena-susu-steril-189ml-03114dfb.jpg"
+      },
+      {
+        "id": 23032,
+        "name": "SKYGOAT SUSU KAMBING ETAWA 200G",
+        "slug": "skygoat-susu-kambing-etawa-200g",
+        "price": 38644,
+        "unit": "Dos",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20210518101911359225_Skygoat-susu-kambing-etawa-200g.jpg",
+        "url": "https://www.k24klik.com/p/SKYGOAT-SUSU-KAMBING-ETAWA-200G-23032",
+        "localImage": "skygoat-susu-kambing-etawa-200g-9c22b38c.jpg"
+      },
+      {
+        "id": 34373,
+        "name": "ENTRASOL SUSU STERIL 180ML KALENG",
+        "slug": "entrasol-susu-steril-180ml-kaleng",
+        "price": 13635,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/noimage.png",
+        "url": "https://www.k24klik.com/p/ENTRASOL-SUSU-STERIL-180ML-KALENG-34373",
+        "localImage": "entrasol-susu-steril-180ml-kaleng-56b853e6.png"
+      },
+      {
+        "id": 22354,
+        "name": "NESTLE BBR MADU & SUSU 120G",
+        "slug": "nestle-bbr-madu-susu-120g",
+        "price": 11470,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/noimage.png",
+        "url": "https://www.k24klik.com/p/NESTLE-BBR-MADU-&-SUSU-120G-22354",
+        "localImage": "nestle-bbr-madu-susu-120g-56b853e6.png"
+      },
+      {
+        "id": 23073,
+        "name": "CURCUMA PLUS SUSU COKLAT 180G",
+        "slug": "curcuma-plus-susu-coklat-180g",
+        "price": 38232,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211130114921359225_CURCUMA-PLUS-SUSU-COKLAT-180G.jpg",
+        "url": "https://www.k24klik.com/p/CURCUMA-PLUS-SUSU-COKLAT-180G-23073",
+        "localImage": "curcuma-plus-susu-coklat-180g-fff9c9ee.jpg"
+      },
+      {
+        "id": 23074,
+        "name": "CURCUMA PLUS SUSU COKLAT 350G",
+        "slug": "curcuma-plus-susu-coklat-350g",
+        "price": 70427,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20210824094012359225_CP-coklat-350.png",
+        "url": "https://www.k24klik.com/p/CURCUMA-PLUS-SUSU-COKLAT-350G-23074",
+        "localImage": "curcuma-plus-susu-coklat-350g-e079cf6a.png"
+      },
+      {
+        "id": 23077,
+        "name": "CURCUMA PLUS SUSU MADU 180G",
+        "slug": "curcuma-plus-susu-madu-180g",
+        "price": 35088,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211129095028359225_CURCUMA-PLUS-SUSU-MADU-180G.jpg",
+        "url": "https://www.k24klik.com/p/CURCUMA-PLUS-SUSU-MADU-180G-23077",
+        "localImage": "curcuma-plus-susu-madu-180g-be91887d.jpg"
+      },
+      {
+        "id": 23078,
+        "name": "CURCUMA PLUS SUSU MADU 350G",
+        "slug": "curcuma-plus-susu-madu-350g",
+        "price": 64769,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211129095138359225_CURCUMA-PLUS-SUSU-MADU-350G.JPG",
+        "url": "https://www.k24klik.com/p/CURCUMA-PLUS-SUSU-MADU-350G-23078",
+        "localImage": "curcuma-plus-susu-madu-350g-d1d7a634.JPG"
+      },
+      {
+        "id": 23081,
+        "name": "CURCUMA PLUS SUSU VANILLA 180G",
+        "slug": "curcuma-plus-susu-vanilla-180g",
+        "price": 35088,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211129012647359225_CURCUMA-PLUS-SUSU-VANILLA-180G.JPG",
+        "url": "https://www.k24klik.com/p/CURCUMA-PLUS-SUSU-VANILLA-180G-23081",
+        "localImage": "curcuma-plus-susu-vanilla-180g-4fa6407d.JPG"
+      },
+      {
+        "id": 23082,
+        "name": "CURCUMA PLUS SUSU VANILLA 350G",
+        "slug": "curcuma-plus-susu-vanilla-350g",
+        "price": 64769,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211129012828359225_CURCUMA-PLUS-SUSU-VANILLA-350G.JPG",
+        "url": "https://www.k24klik.com/p/CURCUMA-PLUS-SUSU-VANILLA-350G-23082",
+        "localImage": "curcuma-plus-susu-vanilla-350g-48050bc2.JPG"
+      },
+      {
+        "id": 23239,
+        "name": "ETTAWA SUSU KAMBING COKLAT 250G",
+        "slug": "ettawa-susu-kambing-coklat-250g",
+        "price": 158723,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211201023654359225_ETTAWA-SUSU-KAMBING-COKLAT-250G.jpg",
+        "url": "https://www.k24klik.com/p/ETTAWA-SUSU-KAMBING-COKLAT-250G-23239",
+        "localImage": "ettawa-susu-kambing-coklat-250g-43219cbc.jpg"
+      },
+      {
+        "id": 23561,
+        "name": "GOMAXS SUSU KAMBING ETAWA 200G",
+        "slug": "gomaxs-susu-kambing-etawa-200g",
+        "price": 69525,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/noimage.png",
+        "url": "https://www.k24klik.com/p/GOMAXS-SUSU-KAMBING-ETAWA-200G-23561",
+        "localImage": "gomaxs-susu-kambing-etawa-200g-56b853e6.png"
+      },
+      {
+        "id": 22650,
+        "name": "SUN BUBUR SUSU PISANG 120G",
+        "slug": "sun-bubur-susu-pisang-120g",
+        "price": 11966,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/noimage.png",
+        "url": "https://www.k24klik.com/p/SUN-BUBUR-SUSU-PISANG-120G-22650",
+        "localImage": "sun-bubur-susu-pisang-120g-56b853e6.png"
+      },
+      {
+        "id": 22734,
+        "name": "SUN BISKUIT MARIE SUSU 80G",
+        "slug": "sun-biskuit-marie-susu-80g",
+        "price": 14751,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20220127023702359225_SUN-BISKUIT-MARIE-SUSU-80G-removebg-preview.png",
+        "url": "https://www.k24klik.com/p/SUN-BISKUIT-MARIE-SUSU-80G-22734",
+        "localImage": "sun-biskuit-marie-susu-80g-b4641a7a.png"
+      },
+      {
+        "id": 2871,
+        "name": "ETTA MILK SUSU KAMBING VANILA 250G",
+        "slug": "etta-milk-susu-kambing-vanila-250g",
+        "price": 95171,
+        "unit": "Dos",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201607040432323754_ETTA-MILK-SUSU-KAMBING-VANILA-250G.png",
+        "url": "https://www.k24klik.com/p/ETTA-MILK-SUSU-KAMBING-VANILA-250G-2871",
+        "localImage": "etta-milk-susu-kambing-vanila-250g-db11af3a.png"
+      },
+      {
+        "id": 19751,
+        "name": "RBM SUSU KAMBING ETAWA 25G SACH",
+        "slug": "rbm-susu-kambing-etawa-25g-sach",
+        "price": 73644,
+        "unit": "Dos",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20190503104911209249_RBM-SUSU.jpg",
+        "url": "https://www.k24klik.com/p/RBM-SUSU-KAMBING-ETAWA-25G-SACH-10S-19751",
+        "localImage": "rbm-susu-kambing-etawa-25g-sach-3bb0095d.jpg"
+      },
+      {
+        "id": 21181,
+        "name": "GOMARS SUSU KAMBING ETAWA VANILA 200G",
+        "slug": "gomars-susu-kambing-etawa-vanila-200g",
+        "price": 35483,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2020060509554023085_SOMARS.jpg",
+        "url": "https://www.k24klik.com/p/GOMARS-SUSU-KAMBING-ETAWA-VANILA-200G-21181",
+        "localImage": "gomars-susu-kambing-etawa-vanila-200g-8a67e0f0.jpg"
+      },
+      {
+        "id": 21182,
+        "name": "GOMARS SUSU KAMBING ETAWA COKLAT 200G",
+        "slug": "gomars-susu-kambing-etawa-coklat-200g",
+        "price": 34645,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201907301041374677_Gonars.jpg",
+        "url": "https://www.k24klik.com/p/GOMARS-SUSU-KAMBING-ETAWA-COKLAT-200G-21182",
+        "localImage": "gomars-susu-kambing-etawa-coklat-200g-eee1a7f3.jpg"
+      },
+      {
+        "id": 22874,
+        "name": "AFIS SUSU SARI KEDELAI NATURAL 200G",
+        "slug": "afis-susu-sari-kedelai-natural-200g",
+        "price": 50246,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211222032002359225_AFIS-SUSU-SARI-KEDELAI-NATURAL-200G-removebg-preview.png",
+        "url": "https://www.k24klik.com/p/AFIS-SUSU-SARI-KEDELAI-NATURAL-200G-22874",
+        "localImage": "afis-susu-sari-kedelai-natural-200g-1265390a.png"
+      },
+      {
+        "id": 23571,
+        "name": "ETAWAKU SUSU KAMBING & KRIMER BUBUK 200G",
+        "slug": "etawaku-susu-kambing-krimer-bubuk-200g",
+        "price": 113816,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20231127014215359225_ETAWAKU.png",
+        "url": "https://www.k24klik.com/p/ETAWAKU-SUSU-KAMBING&KRIMER-BUBUK-200G-23571",
+        "localImage": "etawaku-susu-kambing-krimer-bubuk-200g-e7c47c67.png"
+      }
+    ]
+  },
+  {
+    "category": "Vitamin & Mineral & Suplemen",
+    "slug": "vitamin-mineral-suplemen",
+    "products": [
+      {
+        "id": 796,
+        "name": "LACTO B SACHET",
+        "slug": "lacto-b-sachet",
+        "price": 9935,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20251017082511359225_Lacto-B-1.jpg",
+        "url": "https://www.k24klik.com/p/LACTO-B-SACH-40S-796",
+        "localImage": "lacto-b-sachet-4f8b8189.jpg"
+      },
+      {
+        "id": 25494,
+        "name": "METFORMIN HEXPHARM 500MG TABLET (1 Dos isi 20 Strip @10 Tablet)",
+        "slug": "metformin-hexpharm-500mg-tablet-1-dos-isi-20-strip-10-tablet",
+        "price": 355,
+        "unit": "Tablet",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20201222095813359225_METFORMIN-HCI.jpg",
+        "url": "https://www.k24klik.com/p/METFORMIN-HEXPHARM-500MG-TAB-200S-25494",
+        "localImage": "metformin-hexpharm-500mg-tablet-1-dos-isi-20-strip-10-tablet-eb85b13a.jpg"
+      },
+      {
+        "id": 28929,
+        "name": "PROVE D3 5000IU CHEW TABLET",
+        "slug": "prove-d3-5000iu-chew-tablet",
+        "price": 6025,
+        "unit": "Tablet",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2021040703581623085_prove-d.jpg",
+        "url": "https://www.k24klik.com/p/PROVE-D3-5000IU-CHEW-TAB-30S-28929",
+        "localImage": "prove-d3-5000iu-chew-tablet-69ea0647.jpg"
+      },
+      {
+        "id": 735,
+        "name": "BECOM ZET TABLET",
+        "slug": "becom-zet-tablet",
+        "price": 31898,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20210317105247359225_BECOM-ZET-2.jpg",
+        "url": "https://www.k24klik.com/p/BECOM-ZET-TAB-100S-735",
+        "localImage": "becom-zet-tablet-347a764e.jpg"
+      },
+      {
+        "id": 734,
+        "name": "BECOM C TABLET",
+        "slug": "becom-c-tablet",
+        "price": 23770,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/0112e0020.jpg",
+        "url": "https://www.k24klik.com/p/BECOM-C-TAB-100S-734",
+        "localImage": "becom-c-tablet-6920f9ee.jpg"
+      },
+      {
+        "id": 2126,
+        "name": "CAVIPLEX TABLET",
+        "slug": "caviplex-tablet",
+        "price": 9220,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2017050911225013_1798-Caviplex.png",
+        "url": "https://www.k24klik.com/p/CAVIPLEX-TAB-100S-2126",
+        "localImage": "caviplex-tablet-1184faad.png"
+      },
+      {
+        "id": 3842,
+        "name": "HEMAVITON STAMINA PLUS KAPSUL (1 Strip isi 5 Kapsul)",
+        "slug": "hemaviton-stamina-plus-kapsul-1-strip-isi-5-kapsul",
+        "price": 8373,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2025071104074623085_apotek-online-k24klik-201609300547411922-309-Hemaviton-Stamina-Plus.jpg",
+        "url": "https://www.k24klik.com/p/HEMAVITON-STAMINA-PLUS-CAP-5S-STRIP-10S-3842",
+        "localImage": "hemaviton-stamina-plus-kapsul-1-strip-isi-5-kapsul-e38eca16.jpg"
+      },
+      {
+        "id": 5057,
+        "name": "HEMAVITON STAMINA (1 Botol isi 30)",
+        "slug": "hemaviton-stamina-1-botol-isi-30",
+        "price": 46618,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2017042703150113_1608-Hemaviton-stamina-plus.png",
+        "url": "https://www.k24klik.com/p/HEMAVITON-STAMINA-PLUS-CAP-30S-BTL-5057",
+        "localImage": "hemaviton-stamina-1-botol-isi-30-47d9b3e1.png"
+      },
+      {
+        "id": 3573,
+        "name": "RENOVIT GOLD KAPLET (1 Botol Isi 30 Kaplet)",
+        "slug": "renovit-gold-kaplet-1-botol-isi-30-kaplet",
+        "price": 123293,
+        "unit": "Botol",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201610080550331922_677-Renovit-gold.jpg",
+        "url": "https://www.k24klik.com/p/RENOVIT-GOLD-CAPL-30S-BTL-3573",
+        "localImage": "renovit-gold-kaplet-1-botol-isi-30-kaplet-beb523b6.jpg"
+      },
+      {
+        "id": 32270,
+        "name": "IPI VITAMIN D3 1000IU TABLET (1 Botol isi 70 Tablet)",
+        "slug": "ipi-vitamin-d3-1000iu-tablet-1-botol-isi-70-tablet",
+        "price": 13664,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2025110304493823085_doc-2025-11-03-16-48-21.png",
+        "url": "https://www.k24klik.com/p/IPI-VITAMIN-D3-1000IU-TAB-70S-BTL-32270",
+        "localImage": "ipi-vitamin-d3-1000iu-tablet-1-botol-isi-70-tablet-dbe53329.png"
+      },
+      {
+        "id": 9791,
+        "name": "H-BOOSTER SIRUP 50ML",
+        "slug": "h-booster-sirup-50ml",
+        "price": 24856,
+        "unit": "Botol",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20200115072719303669_H-BOOSTER-SYR-50ML.jpg",
+        "url": "https://www.k24klik.com/p/H-BOOSTER-SYR-50ML-9791",
+        "localImage": "h-booster-sirup-50ml-0f5e21b0.jpg"
+      },
+      {
+        "id": 4411,
+        "name": "ENERVON ACTIVE FC TABLET (Per Strip isi 4 Kaplet)",
+        "slug": "enervon-active-fc-tablet-per-strip-isi-4-kaplet",
+        "price": 6687,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20191119015638209249_ENERVON-ACTIVE-FC-TAB-4S-STRIP-25S-2.jpg",
+        "url": "https://www.k24klik.com/p/ENERVON-ACTIVE-TAB-4S-STRIP-25S-4411",
+        "localImage": "enervon-active-fc-tablet-per-strip-isi-4-kaplet-b44778b1.jpg"
+      },
+      {
+        "id": 3558,
+        "name": "COROVIT TABLET",
+        "slug": "corovit-tablet",
+        "price": 11673,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230720104026359225_COROVIT.png",
+        "url": "https://www.k24klik.com/p/COROVIT-TAB-100S-3558",
+        "localImage": "corovit-tablet-ba9b0569.png"
+      },
+      {
+        "id": 867,
+        "name": "RENOVIT KAPLET (1 Botol Isi 30 Kaplet)",
+        "slug": "renovit-kaplet-1-botol-isi-30-kaplet",
+        "price": 99948,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/0113f0251.jpg",
+        "url": "https://www.k24klik.com/p/RENOVIT-CAPL-30S-BTL-867",
+        "localImage": "renovit-kaplet-1-botol-isi-30-kaplet-4227e5d0.jpg"
+      },
+      {
+        "id": 25251,
+        "name": "MUNOSAN EFF",
+        "slug": "munosan-eff",
+        "price": 157990,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211203103456359225_MUNOSAN-EFF-10S-removebg-preview.png",
+        "url": "https://www.k24klik.com/p/MUNOSAN-EFF-10S-25251",
+        "localImage": "munosan-eff-b1cd3007.png"
+      },
+      {
+        "id": 29027,
+        "name": "INAVITAMAX OMEGA KIDS SOFTGEL",
+        "slug": "inavitamax-omega-kids-softgel",
+        "price": 278099,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230131120006359225_INAVITAMAX-OMEGA-KIDS.png",
+        "url": "https://www.k24klik.com/p/INAVITAMAX-OMEGA-KIDS-SOFTGEL-30S-BTL-29027",
+        "localImage": "inavitamax-omega-kids-softgel-e41c177f.png"
+      },
+      {
+        "id": 29038,
+        "name": "NUTRAHEALTH BONE OPTIMA KAPSUL LUNAK",
+        "slug": "nutrahealth-bone-optima-kapsul-lunak",
+        "price": 226600,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211208093550359225_NUTRAHEALTH-BONE-OPTIMA-SOFTCAP-30S-BTL-removebg-preview.png",
+        "url": "https://www.k24klik.com/p/NUTRAHEALTH-BONE-OPTIMA-SOFTCAP-30S-BTL-29038",
+        "localImage": "nutrahealth-bone-optima-kapsul-lunak-e133f6e7.png"
+      },
+      {
+        "id": 29043,
+        "name": "FATIGON KAPLET (1 Strip isi 6 Tablet)",
+        "slug": "fatigon-kaplet-1-strip-isi-6-tablet",
+        "price": 9042,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230316090210359225_FATIGON.png",
+        "url": "https://www.k24klik.com/p/FATIGON-CAPL-6S-STRIP-10S-29043",
+        "localImage": "fatigon-kaplet-1-strip-isi-6-tablet-a335507c.png"
+      },
+      {
+        "id": 33240,
+        "name": "BLACKMORES MULTIVITAMIN & MINERAL TABLET (1 Botol isi 60)",
+        "slug": "blackmores-multivitamin-mineral-tablet-1-botol-isi-60",
+        "price": 316055,
+        "unit": "Botol",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2025031403422023085_blackmores-1.jpg",
+        "url": "https://www.k24klik.com/p/BLACKMORES-MULTIVITAMIN&MINERAL-TAB-60S-BTL-33240",
+        "localImage": "blackmores-multivitamin-mineral-tablet-1-botol-isi-60-0ae0084a.jpg"
+      },
+      {
+        "id": 33288,
+        "name": "CDR EFF (1 strip isi 2 tablet)",
+        "slug": "cdr-eff-1-strip-isi-2-tablet",
+        "price": 11813,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20251027113626359225_CDR-2.jpg",
+        "url": "https://www.k24klik.com/p/CDR-EFF-2S-STRIP-12S-33288",
+        "localImage": "cdr-eff-1-strip-isi-2-tablet-5d5e93a2.jpg"
+      },
+      {
+        "id": 1890,
+        "name": "VITAMIN B1 IPI",
+        "slug": "vitamin-b1-ipi",
+        "price": 7799,
+        "unit": "Tube",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20201224031609359225_VIT-B1-IPI-2.jpg",
+        "url": "https://www.k24klik.com/p/VITAMIN-B1-IPI-TAB-50S-TUBE-1890",
+        "localImage": "vitamin-b1-ipi-61058f3f.jpg"
+      },
+      {
+        "id": 35887,
+        "name": "BLACKMORES MULTIVITAMIN MINERAL HABBATUSSAUDA (1 botol isi 30 kapsul lunak)",
+        "slug": "blackmores-multivitamin-mineral-habbatussauda-1-botol-isi-30-kapsul-lunak",
+        "price": 210377,
+        "unit": "Botol",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20250423103933359225_Blackmores-multivitamin---mineral-with-habbatussauda-1.jpg",
+        "url": "https://www.k24klik.com/p/BLACKMORES-MULTIVITAMIN-MINERAL-HABBATUSSAUDA-SOFTCAP-30S-BTL-35887",
+        "localImage": "blackmores-multivitamin-mineral-habbatussauda-1-botol-isi-30-kapsul-lunak-33cefda5.jpg"
+      },
+      {
+        "id": 33755,
+        "name": "VITAMIN D3+K2 IPI TUBE (isi 25 tablet)",
+        "slug": "vitamin-d3-k2-ipi-tube-isi-25-tablet",
+        "price": 9499,
+        "unit": "Tube",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20250228012617359225_D3--K2-IPI-3.jpg",
+        "url": "https://www.k24klik.com/p/VITAMIN-D3-K2-IPI-TAB-25S-TUBE-33755",
+        "localImage": "vitamin-d3-k2-ipi-tube-isi-25-tablet-f049ebe6.jpg"
+      },
+      {
+        "id": 753,
+        "name": "REDOXON ZINC EFF (Isi 10 Tablet)",
+        "slug": "redoxon-zinc-eff-isi-10-tablet",
+        "price": 55442,
+        "unit": "Tube",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2021021501061123085_redoxon-1.jpg",
+        "url": "https://www.k24klik.com/p/REDOXON-ZINC-EFF-ORANGE-10S-TUBE-753",
+        "localImage": "redoxon-zinc-eff-isi-10-tablet-c8a711a1.jpg"
+      },
+      {
+        "id": 755,
+        "name": "REDOXON ZINC EFF BLACKCURANT (Isi 10 Tablet)",
+        "slug": "redoxon-zinc-eff-blackcurant-isi-10-tablet",
+        "price": 57306,
+        "unit": "Tube",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2021021501042223085_redoxon-2.jpg",
+        "url": "https://www.k24klik.com/p/REDOXON-ZINC-EFF-BLACKCURANT-10S-TUBE-755",
+        "localImage": "redoxon-zinc-eff-blackcurant-isi-10-tablet-b1b912d3.jpg"
+      },
+      {
+        "id": 756,
+        "name": "RENOVIT KAPLET (per Strip isi 4 Kaplet)",
+        "slug": "renovit-kaplet-per-strip-isi-4-kaplet",
+        "price": 14015,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20160722103713291_220-Renovit.jpg",
+        "url": "https://www.k24klik.com/p/RENOVIT-CAPL-4S-STRIP-25S-756",
+        "localImage": "renovit-kaplet-per-strip-isi-4-kaplet-dfea6eee.jpg"
+      },
+      {
+        "id": 866,
+        "name": "REDOXON FORTIMUN EFF (Isi 10 Tablet)",
+        "slug": "redoxon-fortimun-eff-isi-10-tablet",
+        "price": 68642,
+        "unit": "Tube",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/0113f0250.jpg",
+        "url": "https://www.k24klik.com/p/REDOXON-FORTIMUN-EFF-10S-TUBE-866",
+        "localImage": "redoxon-fortimun-eff-isi-10-tablet-3bfd9b3b.jpg"
+      },
+      {
+        "id": 5113,
+        "name": "HEMAVITON ACTION IMUNUP CAP 5S STRIP 10S",
+        "slug": "hemaviton-action-imunup-cap-5s-strip-10s",
+        "price": 8593,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230517010826359225_HEMAVITON-ACTION.png",
+        "url": "https://www.k24klik.com/p/HEMAVITON-ACTION-IMUNUP-CAP-5S-STRIP-10S-5113",
+        "localImage": "hemaviton-action-imunup-cap-5s-strip-10s-e995bf4b.png"
+      },
+      {
+        "id": 2177,
+        "name": "PROVITAL TABLET",
+        "slug": "provital-tablet",
+        "price": 57657,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201810291136454677_provital.jpeg",
+        "url": "https://www.k24klik.com/p/PROVITAL-TAB-100S-2177",
+        "localImage": "provital-tablet-dbe5ff34.jpeg"
+      },
+      {
+        "id": 2279,
+        "name": "ENERVON C MULTIVITAMIN EFF",
+        "slug": "enervon-c-multivitamin-eff",
+        "price": 39384,
+        "unit": "Tube",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20191214112622303669_ENERVON-C-EFF-10S-TUBE.jpg",
+        "url": "https://www.k24klik.com/p/ENERVON-C-EFF-10S-TUBE-2279",
+        "localImage": "enervon-c-multivitamin-eff-5ff1f922.jpg"
+      },
+      {
+        "id": 894,
+        "name": "STIMUNO SIRUP GRAPE 60ML",
+        "slug": "stimuno-sirup-grape-60ml",
+        "price": 43445,
+        "unit": "Botol",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20201019034110359225_stimuno-grape-60-ml.jpg",
+        "url": "https://www.k24klik.com/p/STIMUNO-GRAPE-SYR-60ML-894",
+        "localImage": "stimuno-sirup-grape-60ml-c25b4795.jpg"
+      },
+      {
+        "id": 24803,
+        "name": "IMBOOST WITH VIT C ANGGUR EFF TABLET (1 TUBE ISI 8)",
+        "slug": "imboost-with-vit-c-anggur-eff-tablet-1-tube-isi-8",
+        "price": 47250,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20210824110526359225_IMBOOST-EFFERVESCENT-GRAPE-8'S.png",
+        "url": "https://www.k24klik.com/p/IMBOOST-WITH-VIT-C-ANGGUR-EFF-TAB-8S-TUBE-24803",
+        "localImage": "imboost-with-vit-c-anggur-eff-tablet-1-tube-isi-8-2d4a58ea.png"
+      },
+      {
+        "id": 24805,
+        "name": "IMBOOST WITH VIT C JERUK EFF TABLET (Per Strip isi 2 Tablet)",
+        "slug": "imboost-with-vit-c-jeruk-eff-tablet-per-strip-isi-2-tablet",
+        "price": 11587,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20201010094737359225_IMBOOST7.jpg",
+        "url": "https://www.k24klik.com/p/IMBOOST-EXTRA-VITC&D3-JERUK-EFF-TAB-2S-STRIP-10S-24805",
+        "localImage": "imboost-with-vit-c-jeruk-eff-tablet-per-strip-isi-2-tablet-f7a56e7b.jpg"
+      },
+      {
+        "id": 25183,
+        "name": "SELOXY PREMIUM FC TABLET",
+        "slug": "seloxy-premium-fc-tablet",
+        "price": 72584,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230915112014359225_SELOXY-3.png",
+        "url": "https://www.k24klik.com/p/SELOXY-PREMIUM-TAB-30S-25183",
+        "localImage": "seloxy-premium-fc-tablet-fe8bb887.png"
+      },
+      {
+        "id": 25213,
+        "name": "PROAXTIN KAPSUL",
+        "slug": "proaxtin-kapsul",
+        "price": 110043,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20210511024509359225_proaxtin.jpg",
+        "url": "https://www.k24klik.com/p/PROAXTIN-CAP-30S-25213",
+        "localImage": "proaxtin-kapsul-a4e8cecf.jpg"
+      },
+      {
+        "id": 28924,
+        "name": "DTRIVIT 400IU DISP TABLET",
+        "slug": "dtrivit-400iu-disp-tablet",
+        "price": 28583,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20231124015107359225_DTRIVIT-400-IU-1-a.jpg",
+        "url": "https://www.k24klik.com/p/DTRIVIT-400IU-DISP-TAB-10S-STRIP-3S-28924",
+        "localImage": "dtrivit-400iu-disp-tablet-ef29ee75.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Kontrasepsi & Kondom & Pil KB",
+    "slug": "kontrasepsi-kondom-pil-kb",
+    "products": [
+      {
+        "id": 592,
+        "name": "SUPER TETRA 250MG KAPSUL",
+        "slug": "super-tetra-250mg-kapsul",
+        "price": 1773,
+        "unit": "Tablet",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230406024252359225_SUPER-TETRA.png",
+        "url": "https://www.k24klik.com/p/SUPER-TETRA-250MG-CAP-120S-592",
+        "localImage": "super-tetra-250mg-kapsul-690234ec.png"
+      },
+      {
+        "id": 2625,
+        "name": "POSTINOR 750MCG TABLET",
+        "slug": "postinor-750mcg-tablet",
+        "price": 19494,
+        "unit": "Tablet",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201810231006264677_postinor-2.jpeg",
+        "url": "https://www.k24klik.com/p/POSTINOR-750MCG-TAB-2625",
+        "localImage": "postinor-750mcg-tablet-b6e271c9.jpeg"
+      },
+      {
+        "id": 9129,
+        "name": "INTERDOXIN 100MG KAPSUL",
+        "slug": "interdoxin-100mg-kapsul",
+        "price": 13801,
+        "unit": "Tablet",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230313022010359225_INTERDOXIN.png",
+        "url": "https://www.k24klik.com/p/INTERDOXIN-100MG-CAP-20S-9129",
+        "localImage": "interdoxin-100mg-kapsul-e99c9809.png"
+      },
+      {
+        "id": 21775,
+        "name": "ONE MED KASA STERIL 16cmX16cm (1 Dos isi 10 lembar)",
+        "slug": "one-med-kasa-steril-16cmx16cm-1-dos-isi-10-lembar",
+        "price": 15320,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2021120702185723085_omomed-kasa-1.jpg",
+        "url": "https://www.k24klik.com/p/ONE-MED-KASA-STERIL-16X16-10S-21775",
+        "localImage": "one-med-kasa-steril-16cmx16cm-1-dos-isi-10-lembar-372773ea.jpg"
+      },
+      {
+        "id": 20109,
+        "name": "TESTPACK TEST KEHAMILAN",
+        "slug": "testpack-test-kehamilan",
+        "price": 13072,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230121092736359225_TESTPACK-1.png",
+        "url": "https://www.k24klik.com/p/TESTPACK-TEST-KEHAMILAN-20109",
+        "localImage": "testpack-test-kehamilan-4e2f1ba2.png"
+      },
+      {
+        "id": 536,
+        "name": "SENSITIF TEST KEHAMILAN",
+        "slug": "sensitif-test-kehamilan",
+        "price": 32172,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2022032410181223085_74149ef74237e31bce1308bcdbbaeb83.jpeg",
+        "url": "https://www.k24klik.com/p/SENSITIF-STRIP-TEST-KEHAMILAN-25S-536",
+        "localImage": "sensitif-test-kehamilan-47aeebe9.jpeg"
+      },
+      {
+        "id": 3792,
+        "name": "SUTRA RAMUAN MADURA (1 Pcs isi 3)",
+        "slug": "sutra-ramuan-madura-1-pcs-isi-3",
+        "price": 11003,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20201224025503359225_RM-SUTRA.jpg",
+        "url": "https://www.k24klik.com/p/SUTRA-RAMUAN-MADURA-3S-3792",
+        "localImage": "sutra-ramuan-madura-1-pcs-isi-3-76386efd.jpg"
+      },
+      {
+        "id": 10268,
+        "name": "PIL KB ANDALAN FE",
+        "slug": "pil-kb-andalan-fe",
+        "price": 25800,
+        "unit": "Dos",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230404025241359225_ANDALAN-FE.png",
+        "url": "https://www.k24klik.com/p/ANDALAN-FE-2S-10268",
+        "localImage": "pil-kb-andalan-fe-0a4d6593.png"
+      },
+      {
+        "id": 3850,
+        "name": "PIL KB ANDALAN LAKTASI",
+        "slug": "pil-kb-andalan-laktasi",
+        "price": 15278,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20200812014106359225_ANDALAN-LAKTASI-2.jpg",
+        "url": "https://www.k24klik.com/p/ANDALAN-LAKTASI-TAB-3850",
+        "localImage": "pil-kb-andalan-laktasi-b79e3c2a.jpg"
+      },
+      {
+        "id": 3497,
+        "name": "PIL KB ANDALAN TABLET",
+        "slug": "pil-kb-andalan-tablet",
+        "price": 9194,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201608250234554677_780-andalan-pil-kb.jpg",
+        "url": "https://www.k24klik.com/p/ANDALAN-TAB-STRIP-2S-3497",
+        "localImage": "pil-kb-andalan-tablet-001a94d6.jpg"
+      },
+      {
+        "id": 5071,
+        "name": "MICROLUT 30MCG TABLET",
+        "slug": "microlut-30mcg-tablet",
+        "price": 1456,
+        "unit": "Tablet",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230830012018359225_MICROLUT.png",
+        "url": "https://www.k24klik.com/p/MICROLUT-30MCG-TAB-5071",
+        "localImage": "microlut-30mcg-tablet-6600eb71.png"
+      },
+      {
+        "id": 10270,
+        "name": "PIL KB ANDALAN POSTPIL TABLET",
+        "slug": "pil-kb-andalan-postpil-tablet",
+        "price": 30196,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230324114243359225_POSTPIL.png",
+        "url": "https://www.k24klik.com/p/ANDALAN-POSTPIL-TAB-2S-10270",
+        "localImage": "pil-kb-andalan-postpil-tablet-06a5cd51.png"
+      },
+      {
+        "id": 4539,
+        "name": "SUTRA OK KONDOM (1 Pcs Isi 3)",
+        "slug": "sutra-ok-kondom-1-pcs-isi-3",
+        "price": 11249,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20221126084508359225_Sutra-OK-3s.png",
+        "url": "https://www.k24klik.com/p/SUTRA-OK-KONDOM-3S-4539",
+        "localImage": "sutra-ok-kondom-1-pcs-isi-3-22bc12cc.png"
+      },
+      {
+        "id": 3660,
+        "name": "FIESTA DOTTED (ISI 3)",
+        "slug": "fiesta-dotted-isi-3",
+        "price": 19151,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2025091102543023085_530820-22-7-2022-14-53-13-1665780873.png",
+        "url": "https://www.k24klik.com/p/FIESTA-DOTTED-3S-3660",
+        "localImage": "fiesta-dotted-isi-3-b036f2f9.png"
+      },
+      {
+        "id": 3663,
+        "name": "FIESTA ULTRATHIN (ISI 3)",
+        "slug": "fiesta-ultrathin-isi-3",
+        "price": 19151,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230824025248359225_FIESTA-ULTRA-THIN.png",
+        "url": "https://www.k24klik.com/p/FIESTA-ULTRA-THIN-3S-3663",
+        "localImage": "fiesta-ultrathin-isi-3-dfae0f65.png"
+      },
+      {
+        "id": 3664,
+        "name": "FIESTA PARTY PACK (ISI 12)",
+        "slug": "fiesta-party-pack-isi-12",
+        "price": 59290,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20220722103407359225_Party-Pack.png",
+        "url": "https://www.k24klik.com/p/FIESTA-PARTY-PACK-12S-3664",
+        "localImage": "fiesta-party-pack-isi-12-0b21fc2b.png"
+      },
+      {
+        "id": 3665,
+        "name": "FIESTA DOTTED (ISI 12)",
+        "slug": "fiesta-dotted-isi-12",
+        "price": 68315,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2025091102565423085_307710-20-12-2022-11-4-52.webp",
+        "url": "https://www.k24klik.com/p/FIESTA-DOTTED-12S-3665",
+        "localImage": "fiesta-dotted-isi-12-c8ea41c1.webp"
+      },
+      {
+        "id": 29792,
+        "name": "FIESTA BLACK COFFEE (ISI 3)",
+        "slug": "fiesta-black-coffee-isi-3",
+        "price": 16293,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230210090251359225_FIESTA-BLACK-COFEE.png",
+        "url": "https://www.k24klik.com/p/FIESTA-BLACK-COFFEE-3S-29792",
+        "localImage": "fiesta-black-coffee-isi-3-c1da72f7.png"
+      },
+      {
+        "id": 3931,
+        "name": "PLANOTAB KB TABLET",
+        "slug": "planotab-kb-tablet",
+        "price": 8302,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201610130541053754_593-Planotab.jpg",
+        "url": "https://www.k24klik.com/p/PLANOTAB-TAB-3931",
+        "localImage": "planotab-kb-tablet-9c2493dd.jpg"
+      },
+      {
+        "id": 530,
+        "name": "YASMIN TABLET",
+        "slug": "yasmin-tablet",
+        "price": 284388,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20200116045932303669_YASMIN-TAB.jpg",
+        "url": "https://www.k24klik.com/p/YASMIN-TAB-530",
+        "localImage": "yasmin-tablet-d992cf11.jpg"
+      },
+      {
+        "id": 3662,
+        "name": "FIESTA STRAWBERRY (ISI 3)",
+        "slug": "fiesta-strawberry-isi-3",
+        "price": 17596,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20220722100258359225_Fiesta-Strawberry-3s.png",
+        "url": "https://www.k24klik.com/p/FIESTA-STRAW-3S-3662",
+        "localImage": "fiesta-strawberry-isi-3-7a0d29c3.png"
+      },
+      {
+        "id": 25472,
+        "name": "PIL KB ELZSA TABLET",
+        "slug": "pil-kb-elzsa-tablet",
+        "price": 153111,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20201207033801359225_ELZSA.jpg",
+        "url": "https://www.k24klik.com/p/ELZSA-TAB-21S-STRIP-1S-25472",
+        "localImage": "pil-kb-elzsa-tablet-936b0c01.jpg"
+      },
+      {
+        "id": 528,
+        "name": "DIANE 35 TABLET",
+        "slug": "diane-35-tablet",
+        "price": 222404,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/0107a0005.jpg",
+        "url": "https://www.k24klik.com/p/DIANE-35-TAB-528",
+        "localImage": "diane-35-tablet-03049248.jpg"
+      },
+      {
+        "id": 29011,
+        "name": "FIESTA DELAY (ISI 3)",
+        "slug": "fiesta-delay-isi-3",
+        "price": 18579,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230824025113359225_FIESTA-DELAY.png",
+        "url": "https://www.k24klik.com/p/FIESTA-DELAY-3S-29011",
+        "localImage": "fiesta-delay-isi-3-51963e9e.png"
+      },
+      {
+        "id": 29012,
+        "name": "FIESTA GRAPE (ISI 3)",
+        "slug": "fiesta-grape-isi-3",
+        "price": 16047,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20220722103218359225_grape.png",
+        "url": "https://www.k24klik.com/p/FIESTA-GRAPE-3S-29012",
+        "localImage": "fiesta-grape-isi-3-35ab08bf.png"
+      },
+      {
+        "id": 29013,
+        "name": "SUTRA PLUS (1 Pcs Isi 12)",
+        "slug": "sutra-plus-1-pcs-isi-12",
+        "price": 35338,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230130030749359225_SUTRA-PLUS-12.png",
+        "url": "https://www.k24klik.com/p/SUTRA-PLUS-12S-29013",
+        "localImage": "sutra-plus-1-pcs-isi-12-380d6246.png"
+      },
+      {
+        "id": 29014,
+        "name": "SUTRA PLUS (1 Pcs Isi 3)",
+        "slug": "sutra-plus-1-pcs-isi-3",
+        "price": 10181,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230126100921359225_SUTRA-PLUS.png",
+        "url": "https://www.k24klik.com/p/SUTRA-PLUS-3S-29014",
+        "localImage": "sutra-plus-1-pcs-isi-3-65e93ff7.png"
+      },
+      {
+        "id": 29020,
+        "name": "ANDALAN KONDOM (1 Box isi 12)",
+        "slug": "andalan-kondom-1-box-isi-12",
+        "price": 27490,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211004015754359225_ANDALAN-KONDOM--12S.jpg",
+        "url": "https://www.k24klik.com/p/ANDALAN-KONDOM-12S-29020",
+        "localImage": "andalan-kondom-1-box-isi-12-3a7148a8.jpg"
+      },
+      {
+        "id": 29021,
+        "name": "ANDALAN KONDOM (1 Box isi 3)",
+        "slug": "andalan-kondom-1-box-isi-3",
+        "price": 6864,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211004015629359225_ANDALAN-KONDOM--3S.jpg",
+        "url": "https://www.k24klik.com/p/ANDALAN-KONDOM-3S-29021",
+        "localImage": "andalan-kondom-1-box-isi-3-fd82178d.jpg"
+      },
+      {
+        "id": 35961,
+        "name": "DUREX LOVE (1 dos isi 12 condoms)",
+        "slug": "durex-love-1-dos-isi-12-condoms",
+        "price": 46574,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20251027095344359225_Durex-Love-2.jpg",
+        "url": "https://www.k24klik.com/p/DUREX-LOVE-12S-35961",
+        "localImage": "durex-love-1-dos-isi-12-condoms-81200633.jpg"
+      },
+      {
+        "id": 3793,
+        "name": "TRINORDIOL-28",
+        "slug": "trinordiol-28",
+        "price": 16219,
+        "unit": "Strip",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201609250545357035_218-Trinordiol.jpg",
+        "url": "https://www.k24klik.com/p/TRINORDIOL-TAB-3793",
+        "localImage": "trinordiol-28-eb63f791.jpg"
+      },
+      {
+        "id": 24612,
+        "name": "MICROGYNON TABLET (1 Dos isi 10 Strip @28 Tablet)",
+        "slug": "microgynon-tablet-1-dos-isi-10-strip-28-tablet",
+        "price": 27510,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20201009030627359225_microgynon.jpg",
+        "url": "https://www.k24klik.com/p/MICROGYNON-TAB-28S-STRIP-10S-24612",
+        "localImage": "microgynon-tablet-1-dos-isi-10-strip-28-tablet-4352fbdb.jpg"
+      },
+      {
+        "id": 4268,
+        "name": "SENSITIF VIVO EXTRA SENSATION",
+        "slug": "sensitif-vivo-extra-sensation",
+        "price": 23746,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230524105440359225_SENSITIF-VIVO-EXTRA-SENSATION-3S.png",
+        "url": "https://www.k24klik.com/p/SENSITIF-VIVO-EXTRA-SENSATION-3S-4268",
+        "localImage": "sensitif-vivo-extra-sensation-190b20df.png"
+      },
+      {
+        "id": 9016,
+        "name": "FIESTA BANANA (ISI 3)",
+        "slug": "fiesta-banana-isi-3",
+        "price": 16664,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230824022639359225_FIESTA-BANANA.png",
+        "url": "https://www.k24klik.com/p/FIESTA-BANANA-3S-9016",
+        "localImage": "fiesta-banana-isi-3-a574ce21.png"
+      },
+      {
+        "id": 9629,
+        "name": "SENSITIF VIVO CLASSIC THIN",
+        "slug": "sensitif-vivo-classic-thin",
+        "price": 14554,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230615105734359225_vivo-4.png",
+        "url": "https://www.k24klik.com/p/SENSITIF-VIVO-CLASSIC-THIN-3S-9629",
+        "localImage": "sensitif-vivo-classic-thin-f1eb88bc.png"
+      },
+      {
+        "id": 3235,
+        "name": "FIESTA ULTRA SAFE (ISI 3)",
+        "slug": "fiesta-ultra-safe-isi-3",
+        "price": 19151,
+        "unit": "Pcs",
+        "imageUrl": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20220722103148359225_ultrasafe.png",
+        "url": "https://www.k24klik.com/p/FIESTA-ULTRA-SAFE-3S-3235",
+        "localImage": "fiesta-ultra-safe-isi-3-fea656bd.png"
+      }
+    ]
+  }
+]

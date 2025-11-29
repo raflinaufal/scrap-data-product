@@ -3,11 +3,13 @@ node_modules/
 
 # Output files
 k24-products.json
+k24-api-with-local-images.json
 
 # Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+images
 
 # OS files
 .DS_Store
